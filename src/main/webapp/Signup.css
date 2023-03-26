@@ -1,0 +1,19 @@
+body {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: lightblue;
+	text-align: center;
+	background-color: lightblue;
+	font-size: 25px;
+}
+
+.output-box {
+	text-align: center;
+}
+
+.login-button {
+	position: absolute;
+	top: 20px;
+	right: 20px;
+}
